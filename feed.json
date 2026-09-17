@@ -6,16 +6,16 @@
       "cheapestTWD": 15205,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/mel/261113/261122/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-17T08:00:00",
+      "seenAt": "2026-09-17T12:00:00",
       "vsHistory": "即時真實價 · TP估比近期低 16%"
     },
     "CN": {
       "bestAirline": "國泰",
       "bestAirport": "SHA",
-      "cheapestTWD": 8166,
+      "cheapestTWD": 8183,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/sha/260919/260926/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-17T08:00:00",
+      "seenAt": "2026-09-17T12:00:00",
       "vsHistory": ""
     },
     "DE": {
@@ -33,7 +33,7 @@
       "cheapestTWD": 27047,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/cdg/261106/261120/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-17T08:00:00",
+      "seenAt": "2026-09-17T12:00:00",
       "vsHistory": ""
     },
     "GB": {
@@ -42,16 +42,16 @@
       "cheapestTWD": 21839,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/lhr/261022/261111/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-17T08:00:00",
+      "seenAt": "2026-09-17T12:00:00",
       "vsHistory": ""
     },
     "HK": {
       "bestAirline": "香港快運",
       "bestAirport": "HKG",
-      "cheapestTWD": 6101,
+      "cheapestTWD": 6114,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/hkg/260918/260922/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-17T08:00:00",
+      "seenAt": "2026-09-17T12:00:00",
       "vsHistory": ""
     },
     "IN": {
@@ -66,28 +66,28 @@
     "JP": {
       "bestAirline": "泰獅航",
       "bestAirport": "NRT",
-      "cheapestTWD": 7721,
+      "cheapestTWD": 7737,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/nrt/260919/260922/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-17T08:00:00",
+      "seenAt": "2026-09-17T12:00:00",
       "vsHistory": ""
     },
     "KR": {
       "bestAirline": "台灣虎航",
       "bestAirport": "ICN",
-      "cheapestTWD": 5370,
+      "cheapestTWD": 5381,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/icn/260922/260927/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-17T08:00:00",
+      "seenAt": "2026-09-17T12:00:00",
       "vsHistory": ""
     },
     "MO": {
       "bestAirline": "澳門航空",
       "bestAirport": "MFM",
-      "cheapestTWD": 7213,
+      "cheapestTWD": 7228,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/mfm/260917/260919/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-17T08:00:00",
+      "seenAt": "2026-09-17T12:00:00",
       "vsHistory": ""
     },
     "MY": {
@@ -96,7 +96,7 @@
       "cheapestTWD": 8636,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/kul/260921/260922/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-17T08:00:00",
+      "seenAt": "2026-09-17T12:00:00",
       "vsHistory": "即時真實價 · TP估比近期低 27%"
     },
     "NL": {
@@ -105,25 +105,25 @@
       "cheapestTWD": 29824,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/ams/261211/261221/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-17T08:00:00",
+      "seenAt": "2026-09-17T12:00:00",
       "vsHistory": ""
     },
     "PH": {
       "bestAirline": "菲亞航",
       "bestAirport": "MNL",
-      "cheapestTWD": 7880,
+      "cheapestTWD": 7897,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/mnl/260921/260924/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-17T08:00:00",
+      "seenAt": "2026-09-17T12:00:00",
       "vsHistory": ""
     },
     "TH": {
       "bestAirline": "泰獅航",
       "bestAirport": "BKK",
-      "cheapestTWD": 9183,
+      "cheapestTWD": 9202,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/bkk/260918/260929/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-17T08:00:00",
+      "seenAt": "2026-09-17T12:00:00",
       "vsHistory": ""
     },
     "US": {
@@ -132,7 +132,7 @@
       "cheapestTWD": 24901,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/sfo/261201/261204/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-17T08:00:00",
+      "seenAt": "2026-09-17T12:00:00",
       "vsHistory": ""
     },
     "VN": {
@@ -145,7 +145,7 @@
       "vsHistory": ""
     }
   },
-  "generatedAt": "2026-09-17T08:00:00",
+  "generatedAt": "2026-09-17T12:00:00",
   "newLows": [
     {
       "airline": "長榮",
@@ -159,7 +159,7 @@
       "origin": "",
       "price": 11709,
       "ret": "08/05",
-      "seenAt": "2026-09-17T08:00:00",
+      "seenAt": "2026-09-17T12:00:00",
       "url": "https://www.skyscanner.com.tw/transport/flights/tpe/pek/260731/260805/?adults=1",
       "verified": true,
       "vsHistory": "新低 -5%(前 NT$12,339)"
@@ -180,9 +180,9 @@
           "isFavorite": false,
           "note": "",
           "origin": "",
-          "price": 5370,
+          "price": 5381,
           "ret": "09/27",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/icn/260922/260927/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -197,9 +197,9 @@
           "isFavorite": false,
           "note": "",
           "origin": "",
-          "price": 6101,
+          "price": 6114,
           "ret": "09/22",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/hkg/260918/260922/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -214,9 +214,9 @@
           "isFavorite": false,
           "note": "",
           "origin": "",
-          "price": 6546,
+          "price": 6559,
           "ret": "09/27",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/gmp/260922/260927/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -231,9 +231,9 @@
           "isFavorite": false,
           "note": "",
           "origin": "",
-          "price": 7213,
+          "price": 7228,
           "ret": "09/19",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/mfm/260917/260919/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -250,7 +250,7 @@
           "origin": "",
           "price": 8636,
           "ret": "09/22",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/kul/260921/260922/?adults=1",
           "verified": true,
           "vsHistory": "已驗證即時價"
@@ -274,7 +274,7 @@
           "origin": "",
           "price": 8636,
           "ret": "09/22",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/kul/260921/260922/?adults=1",
           "verified": true,
           "vsHistory": "即時真實價 · TP估比近期低 27%"
@@ -291,7 +291,7 @@
           "origin": "",
           "price": 7858,
           "ret": "09/25",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/kix/260919/260925/?adults=1",
           "verified": true,
           "vsHistory": "即時真實價 · TP估比近期低 14%"
@@ -315,7 +315,7 @@
           "origin": "",
           "price": 15205,
           "ret": "11/22",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/mel/261113/261122/?adults=1",
           "verified": true,
           "vsHistory": "已驗證即時價"
@@ -332,7 +332,7 @@
           "origin": "",
           "price": 21839,
           "ret": "11/11",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/lhr/261022/261111/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -349,7 +349,7 @@
           "origin": "",
           "price": 24901,
           "ret": "12/04",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/sfo/261201/261204/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -366,7 +366,7 @@
           "origin": "",
           "price": 24995,
           "ret": "10/03",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/lax/260927/261003/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -383,7 +383,7 @@
           "origin": "",
           "price": 27047,
           "ret": "11/20",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/cdg/261106/261120/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -407,7 +407,7 @@
           "origin": "",
           "price": 8583,
           "ret": "08/05",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/pvg/260731/260805/?adults=1",
           "verified": true,
           "vsHistory": "歷史低點"
@@ -424,7 +424,7 @@
           "origin": "",
           "price": 11709,
           "ret": "08/05",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/pek/260731/260805/?adults=1",
           "verified": true,
           "vsHistory": "新低 -5%"
@@ -441,7 +441,7 @@
           "origin": "",
           "price": 9668,
           "ret": "08/04",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/xmn/260731/260804/?adults=1",
           "verified": true,
           "vsHistory": "接近低點"
@@ -458,7 +458,7 @@
           "origin": "",
           "price": 14857,
           "ret": "08/04",
-          "seenAt": "2026-09-17T08:00:00",
+          "seenAt": "2026-09-17T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/hgh/260731/260804/?adults=1",
           "verified": true,
           "vsHistory": ""
