@@ -6,7 +6,7 @@
       "cheapestTWD": 14831,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/mel/261113/261122/?adults=1",
       "hasDeal": true,
-      "seenAt": "2026-09-27T08:00:00",
+      "seenAt": "2026-09-27T12:00:00",
       "vsHistory": "比歷史低 11%"
     },
     "CN": {
@@ -15,7 +15,7 @@
       "cheapestTWD": 8583,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/pvg/260731/260805/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-27T08:00:00",
+      "seenAt": "2026-09-27T12:00:00",
       "vsHistory": "新低 -2%"
     },
     "DE": {
@@ -24,7 +24,7 @@
       "cheapestTWD": 25524,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/fra/261201/261231/?adults=1",
       "hasDeal": true,
-      "seenAt": "2026-09-27T08:00:00",
+      "seenAt": "2026-09-27T12:00:00",
       "vsHistory": "比歷史低 15%"
     },
     "FR": {
@@ -42,7 +42,7 @@
       "cheapestTWD": 24187,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/lhr/261124/261130/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-27T08:00:00",
+      "seenAt": "2026-09-27T12:00:00",
       "vsHistory": ""
     },
     "HK": {
@@ -60,7 +60,7 @@
       "cheapestTWD": 16581,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/del/261101/261104/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-27T08:00:00",
+      "seenAt": "2026-09-27T12:00:00",
       "vsHistory": ""
     },
     "JP": {
@@ -132,20 +132,20 @@
       "cheapestTWD": 20814,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/lax/261024/261107/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-27T08:00:00",
+      "seenAt": "2026-09-27T12:00:00",
       "vsHistory": ""
     },
     "VN": {
       "bestAirline": "易斯達",
       "bestAirport": "HAN",
-      "cheapestTWD": 9325,
+      "cheapestTWD": 9306,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/han/260930/260930/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-09-27T08:00:00",
+      "seenAt": "2026-09-27T12:00:00",
       "vsHistory": ""
     }
   },
-  "generatedAt": "2026-09-27T08:00:00",
+  "generatedAt": "2026-09-27T12:00:00",
   "newLows": [
     {
       "airline": "東方",
@@ -159,7 +159,7 @@
       "origin": "",
       "price": 8583,
       "ret": "08/05",
-      "seenAt": "2026-09-27T08:00:00",
+      "seenAt": "2026-09-27T12:00:00",
       "url": "https://www.skyscanner.com.tw/transport/flights/tpe/pvg/260731/260805/?adults=1",
       "verified": true,
       "vsHistory": "新低 -2%(前 NT$8,750)"
@@ -180,9 +180,9 @@
           "isFavorite": false,
           "note": "",
           "origin": "",
-          "price": 9325,
+          "price": 9306,
           "ret": "09/30",
-          "seenAt": "2026-09-27T08:00:00",
+          "seenAt": "2026-09-27T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/han/260930/260930/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -212,7 +212,7 @@
           "origin": "",
           "price": 14831,
           "ret": "11/22",
-          "seenAt": "2026-09-27T08:00:00",
+          "seenAt": "2026-09-27T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/mel/261113/261122/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -229,7 +229,7 @@
           "origin": "",
           "price": 16581,
           "ret": "11/04",
-          "seenAt": "2026-09-27T08:00:00",
+          "seenAt": "2026-09-27T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/del/261101/261104/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -246,7 +246,7 @@
           "origin": "",
           "price": 17058,
           "ret": "11/02",
-          "seenAt": "2026-09-27T08:00:00",
+          "seenAt": "2026-09-27T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/syd/261019/261102/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -263,7 +263,7 @@
           "origin": "",
           "price": 20814,
           "ret": "11/07",
-          "seenAt": "2026-09-27T08:00:00",
+          "seenAt": "2026-09-27T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/lax/261024/261107/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -280,7 +280,7 @@
           "origin": "",
           "price": 22691,
           "ret": "11/22",
-          "seenAt": "2026-09-27T08:00:00",
+          "seenAt": "2026-09-27T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/sfo/261103/261122/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -304,7 +304,7 @@
           "origin": "",
           "price": 8583,
           "ret": "08/05",
-          "seenAt": "2026-09-27T08:00:00",
+          "seenAt": "2026-09-27T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/pvg/260731/260805/?adults=1",
           "verified": true,
           "vsHistory": "新低 -2%"
@@ -321,7 +321,7 @@
           "origin": "",
           "price": 11709,
           "ret": "08/05",
-          "seenAt": "2026-09-27T08:00:00",
+          "seenAt": "2026-09-27T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/pek/260731/260805/?adults=1",
           "verified": true,
           "vsHistory": "歷史低點"
@@ -338,7 +338,7 @@
           "origin": "",
           "price": 9668,
           "ret": "08/04",
-          "seenAt": "2026-09-27T08:00:00",
+          "seenAt": "2026-09-27T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/xmn/260731/260804/?adults=1",
           "verified": true,
           "vsHistory": "接近低點"
@@ -355,7 +355,7 @@
           "origin": "",
           "price": 14857,
           "ret": "08/04",
-          "seenAt": "2026-09-27T08:00:00",
+          "seenAt": "2026-09-27T12:00:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/hgh/260731/260804/?adults=1",
           "verified": true,
           "vsHistory": ""
