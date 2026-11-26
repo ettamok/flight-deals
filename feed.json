@@ -6,7 +6,7 @@
       "cheapestTWD": 14374,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/mel/270219/270226/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "vsHistory": ""
     },
     "CN": {
@@ -15,7 +15,7 @@
       "cheapestTWD": 8675,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/sha/261215/270111/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "vsHistory": "即時真實價 · TP估比近期低 15%"
     },
     "DE": {
@@ -24,7 +24,7 @@
       "cheapestTWD": 19056,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/fra/261216/270105/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "vsHistory": ""
     },
     "FR": {
@@ -33,7 +33,7 @@
       "cheapestTWD": 22253,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/cdg/261213/270111/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "vsHistory": ""
     },
     "GB": {
@@ -42,7 +42,7 @@
       "cheapestTWD": 24759,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/lhr/261220/270117/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "vsHistory": ""
     },
     "HK": {
@@ -51,7 +51,7 @@
       "cheapestTWD": 4312,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/hkg/270114/270117/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "vsHistory": ""
     },
     "IN": {
@@ -60,7 +60,7 @@
       "cheapestTWD": 14077,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/del/270107/270121/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "vsHistory": ""
     },
     "JP": {
@@ -68,9 +68,9 @@
       "bestAirport": "OKA",
       "cheapestTWD": 4411,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/oka/270104/270108/?adults=1",
-      "hasDeal": true,
-      "seenAt": "2026-11-26T08:00:00",
-      "vsHistory": "比歷史低 10%"
+      "hasDeal": false,
+      "seenAt": "2026-11-26T12:01:00",
+      "vsHistory": ""
     },
     "KR": {
       "bestAirline": "真航空",
@@ -78,7 +78,7 @@
       "cheapestTWD": 3983,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/cju/261201/261205/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "vsHistory": ""
     },
     "MO": {
@@ -87,7 +87,7 @@
       "cheapestTWD": 6353,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/mfm/261212/261216/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "vsHistory": ""
     },
     "MY": {
@@ -96,7 +96,7 @@
       "cheapestTWD": 7703,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/kul/261128/261228/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "vsHistory": ""
     },
     "NL": {
@@ -105,7 +105,7 @@
       "cheapestTWD": 18165,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/ams/261222/270105/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "vsHistory": ""
     },
     "PH": {
@@ -114,7 +114,7 @@
       "cheapestTWD": 4707,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/mnl/270115/270119/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "vsHistory": ""
     },
     "TH": {
@@ -123,7 +123,7 @@
       "cheapestTWD": 6024,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/bkk/270109/270116/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "vsHistory": ""
     },
     "US": {
@@ -132,7 +132,7 @@
       "cheapestTWD": 21396,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/sea/270126/270204/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "vsHistory": ""
     },
     "VN": {
@@ -141,11 +141,11 @@
       "cheapestTWD": 5728,
       "deeplink": "https://www.skyscanner.com.tw/transport/flights/tpe/han/261215/261219/?adults=1",
       "hasDeal": false,
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "vsHistory": ""
     }
   },
-  "generatedAt": "2026-11-26T08:00:00",
+  "generatedAt": "2026-11-26T12:01:00",
   "newLows": [
     {
       "airline": "華航(常搭)",
@@ -159,7 +159,7 @@
       "origin": "",
       "price": 15253,
       "ret": "01/30",
-      "seenAt": "2026-11-26T08:00:00",
+      "seenAt": "2026-11-26T12:01:00",
       "url": "https://www.skyscanner.com.tw/transport/flights/tpe/ctu/270125/270130/?adults=1",
       "verified": true,
       "vsHistory": "新低 -64%(前 NT$42,414)"
@@ -182,7 +182,7 @@
           "origin": "",
           "price": 3983,
           "ret": "12/05",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/cju/261201/261205/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -199,7 +199,7 @@
           "origin": "",
           "price": 4312,
           "ret": "01/17",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/hkg/270114/270117/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -216,7 +216,7 @@
           "origin": "",
           "price": 4411,
           "ret": "01/08",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/oka/270104/270108/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -233,7 +233,7 @@
           "origin": "",
           "price": 4707,
           "ret": "01/19",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/mnl/270115/270119/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -250,7 +250,7 @@
           "origin": "",
           "price": 5036,
           "ret": "12/05",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/pus/261201/261205/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -274,7 +274,7 @@
           "origin": "",
           "price": 9068,
           "ret": "02/28",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/cju/270224/270228/?adults=1",
           "verified": true,
           "vsHistory": "即時真實價 · TP估比近期低 18%"
@@ -291,7 +291,7 @@
           "origin": "",
           "price": 9815,
           "ret": "01/07",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/hnd/261228/270107/?adults=1",
           "verified": true,
           "vsHistory": "即時真實價 · TP估比近期低 17%"
@@ -308,7 +308,7 @@
           "origin": "",
           "price": 8675,
           "ret": "01/11",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/sha/261215/270111/?adults=1",
           "verified": true,
           "vsHistory": "即時真實價 · TP估比近期低 15%"
@@ -325,7 +325,7 @@
           "origin": "",
           "price": 6847,
           "ret": "01/07",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/nrt/261228/270107/?adults=1",
           "verified": false,
           "vsHistory": "比歷史低 12%"
@@ -342,7 +342,7 @@
           "origin": "",
           "price": 5991,
           "ret": "12/05",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/sgn/261201/261205/?adults=1",
           "verified": false,
           "vsHistory": "比歷史低 12%"
@@ -366,7 +366,7 @@
           "origin": "",
           "price": 14077,
           "ret": "01/21",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/del/270107/270121/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -383,7 +383,7 @@
           "origin": "",
           "price": 14374,
           "ret": "02/26",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/mel/270219/270226/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -400,7 +400,7 @@
           "origin": "",
           "price": 16385,
           "ret": "03/02",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/syd/270225/270302/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -417,7 +417,7 @@
           "origin": "",
           "price": 18165,
           "ret": "01/05",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/ams/261222/270105/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -434,7 +434,7 @@
           "origin": "",
           "price": 19056,
           "ret": "01/05",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/fra/261216/270105/?adults=1",
           "verified": false,
           "vsHistory": ""
@@ -458,7 +458,7 @@
           "origin": "",
           "price": 15349,
           "ret": "01/30",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/pvg/270125/270130/?adults=1",
           "verified": true,
           "vsHistory": "接近高點"
@@ -475,7 +475,7 @@
           "origin": "",
           "price": 18640,
           "ret": "01/30",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/pek/270125/270130/?adults=1",
           "verified": true,
           "vsHistory": "接近高點"
@@ -492,7 +492,7 @@
           "origin": "",
           "price": 15253,
           "ret": "01/30",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/ctu/270125/270130/?adults=1",
           "verified": true,
           "vsHistory": "新低 -64%"
@@ -509,7 +509,7 @@
           "origin": "",
           "price": 11114,
           "ret": "01/29",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/xmn/270125/270129/?adults=1",
           "verified": true,
           "vsHistory": ""
@@ -526,7 +526,7 @@
           "origin": "",
           "price": 13660,
           "ret": "01/29",
-          "seenAt": "2026-11-26T08:00:00",
+          "seenAt": "2026-11-26T12:01:00",
           "url": "https://www.skyscanner.com.tw/transport/flights/tpe/hgh/270125/270129/?adults=1",
           "verified": true,
           "vsHistory": "接近高點"
